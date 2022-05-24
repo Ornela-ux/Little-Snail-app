@@ -1,6 +1,7 @@
 # Little-Snail-kids-app
 My final project for Redi School spring semester.
-https://www.figma.com/file/zFJAz0qHF0hY1I0dn08a6X/First-prototype?node-id=0%3A1
+
+This is the link to the Prototype ->  https://www.figma.com/file/zFJAz0qHF0hY1I0dn08a6X/First-prototype?node-id=0%3A1
 
 
 Steps to UX/UI app design
