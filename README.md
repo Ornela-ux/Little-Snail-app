@@ -1,5 +1,3 @@
-
-           
 # Little-Snail-kids-app
 My final project for Redi School spring semester.
         
@@ -70,12 +68,17 @@ Colors and fonts that I chose
 ![colors and font](https://user-images.githubusercontent.com/106023493/170029632-c6fa0648-66fa-41cc-a501-379a1245f0b8.jpg)
 
 **Step 9**
+I created this logo in Adobe illustrator.
+
+![logo projekti](https://user-images.githubusercontent.com/106023493/170047973-f9d90928-c19f-44a3-a284-8ee086c7c692.jpg)
+
+**Step 10**
 
 User testing interview 
 
 ![user testing](https://user-images.githubusercontent.com/106023493/170030153-fc1c6e6d-ad3a-4f1a-aa77-979ca6cb1198.jpg)
 
-**Step 10**
+**Step 11**
 
 The project's mockups #kids area
 
@@ -114,7 +117,7 @@ The project's mockups #kids area
 ![Screenshot 2022-05-23 103055](https://user-images.githubusercontent.com/106023493/170031595-d63ad15f-7e36-4e87-a1ab-2fafa72192ae.jpg)
 
 
-**Step 11**
+**Step 12**
 
 Final prototype 
 
