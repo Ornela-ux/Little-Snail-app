@@ -62,7 +62,7 @@ First UI(user intefrace)
 
 **Step 8**
 
-Colors and font that I choseColors and font that I chose
+Colors and fonts that I chose
 
 ![colors and font](https://user-images.githubusercontent.com/106023493/170029632-c6fa0648-66fa-41cc-a501-379a1245f0b8.jpg)
 
