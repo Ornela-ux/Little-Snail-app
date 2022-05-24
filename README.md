@@ -30,6 +30,13 @@ Affinity mapping
 ![Affinity mapping](https://user-images.githubusercontent.com/106023493/170027593-41b6d41b-907b-4ce5-9aab-7d58b9040469.jpg)
 
 **Step 5**
+Costumer journey map
+
+![costumer journey map 2](https://user-images.githubusercontent.com/106023493/170053902-e9412689-e1e6-4755-9e2d-e70ca921c2d6.jpg)
+
+![costumer journey map](https://user-images.githubusercontent.com/106023493/170053959-b8b2240e-3dd1-40c4-bba6-f0025cef8a2b.jpg)
+
+**Step 6**
 
 Personas
 
@@ -37,13 +44,13 @@ Personas
 
 ![Personas 2](https://user-images.githubusercontent.com/106023493/170027855-ee6e2631-0407-469f-80e2-46feb0f397e8.jpg)
 
-**Step 6**
+**Step 7**
 
 Initial user flow.
 
 ![user flowchart](https://user-images.githubusercontent.com/106023493/170027997-74b89637-f563-44e6-abe6-d90cba6703a5.png)
 
-**Step 7**
+**Step 8**
 
 Low fidelity and mid fidelity wireframes.
 
@@ -56,29 +63,34 @@ Mid Fidelity:
 
 ![wireframes](https://user-images.githubusercontent.com/106023493/170029006-f8f9733f-4ca0-4732-8348-9040c06b3cfc.jpg)
 
-**Step 7**
+**Step 9**
 First UI(user intefrace)
 
 ![first UI](https://user-images.githubusercontent.com/106023493/170029233-e1b2caa0-f7c7-422e-9cb2-ecad8e8296b1.jpg)
 
-**Step 8**
+**Step 10**
 
 Colors and fonts that I chose
 
 ![colors and font](https://user-images.githubusercontent.com/106023493/170029632-c6fa0648-66fa-41cc-a501-379a1245f0b8.jpg)
 
-**Step 9**
+**Step 11**
 I created this logo in Adobe illustrator.
 
 ![logo projekti](https://user-images.githubusercontent.com/106023493/170047973-f9d90928-c19f-44a3-a284-8ee086c7c692.jpg)
 
-**Step 10**
+**Step 12**
+Icons that i used in the project
+
+![ikonat](https://user-images.githubusercontent.com/106023493/170053412-6711bab9-b44d-4a47-a7b5-9c9627f7a049.jpg)
+
+**Step 13**
 
 User testing interview 
 
 ![user testing](https://user-images.githubusercontent.com/106023493/170030153-fc1c6e6d-ad3a-4f1a-aa77-979ca6cb1198.jpg)
 
-**Step 11**
+**Step 14**
 
 The project's mockups #kids area
 
@@ -117,7 +129,7 @@ The project's mockups #kids area
 ![Screenshot 2022-05-23 103055](https://user-images.githubusercontent.com/106023493/170031595-d63ad15f-7e36-4e87-a1ab-2fafa72192ae.jpg)
 
 
-**Step 12**
+**Step 15**
 
 Final prototype 
 
