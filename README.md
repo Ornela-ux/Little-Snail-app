@@ -1,3 +1,14 @@
+
+            ![Ornn](https://user-images.githubusercontent.com/106023493/170043580-34628ee5-2977-4486-9ef1-156a6630f455.png)
+
+                       Hi I’m Ornela. I am a highly motivated Redi School UX/UI Design student. 
+                       I focused on creating experiences that are functional  & visually compelling.
+
+
+
+
+
+
 # Little-Snail-kids-app
 My final project for Redi School spring semester.
 
