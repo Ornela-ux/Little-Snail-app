@@ -48,7 +48,8 @@ Low fidelity and mid fidelity wireframes.
 
 Low fidelity:
 
-![mid fidelity](https://user-images.githubusercontent.com/106023493/170028622-bf2f92d4-2e8a-4b10-8a28-8697f0742b45.jpg)
+![IMG-0417 (1)](https://user-images.githubusercontent.com/106023493/170033670-c457b078-5c75-4a21-b723-44bcf5200def.jpg)
+
 
 Mid Fidelity:
 
@@ -116,8 +117,10 @@ Final prototype
 
 ![Screenshot 2022-05-24 141248](https://user-images.githubusercontent.com/106023493/170031871-a1fc2143-1be5-490e-9a72-f1eb2cc1c090.jpg)
  
- 
+                 
+                 Design is not just what it looks like and feel likes. Design is how it works.
 
+                                          **Steve Jobs**
 
 
 
