@@ -2,10 +2,7 @@
            
 # Little-Snail-kids-app
 My final project for Redi School spring semester.
-               ![Ornn](https://user-images.githubusercontent.com/106023493/170044502-27ec8b87-440f-4cdc-afa4-dd55faf0686d.png)
-
-                 Hi I’m Ornela. I am a highly motivated Redi School UX/UI Design student. 
-                 I focused on creating experiences that are functional  & visually compelling.
+        
          
 This is the link to the Prototype ->  https://www.figma.com/file/zFJAz0qHF0hY1I0dn08a6X/First-prototype?node-id=0%3A1
 
