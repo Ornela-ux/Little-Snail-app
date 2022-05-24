@@ -8,10 +8,12 @@ This is the link to the Prototype ->  https://www.figma.com/file/zFJAz0qHF0hY1I0
 
 **Step 1**
 
-Conducted researches on entertainment. I picked top 3 products that i use for my entertainment and i have evaluate my experiece using them. 
-I chose youtube kids that my son use. 
+Conducted entertainment research. I picked the top three products that I use for entertainment and evaluated my experience for each.
+My son uses YouTube Kids, therefore I chose that.![entertainmet](https://user-images.githubusercontent.com/106023493/170026526-58b79a61-75ff-450b-829d-2c9913eea8ff.jpg)
 
-**Step 1**
+
+
+**Step 2**
 
 **Step 1**
 
